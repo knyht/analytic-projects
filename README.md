@@ -11,7 +11,7 @@
 |[Аналитика в авиакомпании][5]|Яндекс.Практикум|Необходимо изучить базу данных и проанализировать спрос пассажиров на рейсы в города, где проходят фестивали.|pandas, matplotlib, seaborn, numpy, scipy, проверка гипотез|`Завершен`|
 
 [1]:
-[2]:
+[2]: https://github.com/knyht/data-analytics-projects/tree/main/projects/research_ads_realty
 [3]:
 [4]:
 [5]:
