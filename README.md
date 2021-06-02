@@ -10,8 +10,8 @@
 |[Определение популярных продуктов для рекламной кампании интернет-магазина][4]|Яндекс.Практикум|С помощью исторических данных о продажах игр, оценках пользователей и экспертов, жанрах и платформах необходимо выявить определяющие успех игры факторы.|pandas, matplotlib, seaborn, numpy, scipy, сводные таблицы, проверка гипотез|`Завершен`|
 |[Аналитика в авиакомпании][5]|Яндекс.Практикум|Необходимо изучить базу данных и проанализировать спрос пассажиров на рейсы в города, где проходят фестивали.|pandas, matplotlib, seaborn, numpy, scipy, проверка гипотез|`Завершен`|
 
-[1]:
+[1]: https://github.com/knyht/data-analytics-projects/tree/main/projects/research_reliability_of_borrowers
 [2]: https://github.com/knyht/data-analytics-projects/tree/main/projects/research_ads_realty
-[3]:
-[4]:
-[5]:
+[3]: https://github.com/knyht/data-analytics-projects/tree/main/projects/research_mobile_plans
+[4]: https://github.com/knyht/data-analytics-projects/tree/main/projects/research_game_store
+[5]: https://github.com/knyht/data-analytics-projects/tree/main/projects/research_airline
