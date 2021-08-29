@@ -1,5 +1,5 @@
 **Дополнительные курсы:**
-- \[04.21-08.21] Karpov.Courses: Аналитик данных
+- \[04.21-09.21] Karpov.Courses: Аналитик данных
 - \[09.19] [Основы SQL](https://github.com/knyht/data-analytics-projects/blob/main/certificates/stepik-certificate-51562-213f86e.pdf)
 
 # Проекты
